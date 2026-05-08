@@ -2,6 +2,8 @@
 
 A collection of lecture notes for lectures on the first volume of Aristotle's works in *The Great Books of the Western World*, presented in the summer of 2026.
 
+Link to playlist: https://www.youtube.com/watch?v=y3WczKPJlWE&list=PL0KmvrFqDNusD3pmn_vQK8hjRxY57O9eM&pp=sAgC
+
 ## About
 
 This repository contains lecture notes prepared for a lecture series on Aristotle’s works as collected in the first volume of *The Great Books of the Western World*.
