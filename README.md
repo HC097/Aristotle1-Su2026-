@@ -1,4 +1,4 @@
-# Aristotle Lecture Notes
+# Aristotle 1 Lecture Notes
 
 A collection of lecture notes for lectures on the first volume of Aristotle's works in *The Great Books of the Western World*, presented in the summer of 2026.
 
